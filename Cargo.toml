@@ -1,10 +1,10 @@
 [package]
-name = "friendy-spoon"
+name = "gm-homos"
 version = "0.1.0"
 edition = "2021"
 
 [lib]
-name = "friendy_spoon"
+name = "gm_homos"
 crate-type = ["cdylib", "lib"]
 
 [dependencies]
